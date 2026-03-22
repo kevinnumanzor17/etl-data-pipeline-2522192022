@@ -1,0 +1,8 @@
+id_producto,producto,precio,id_proveedor,motivo_rechazo
+PR1020,Proyector 20,,P313,precio_invalido
+PR1021,Audífonos 21,,P333,precio_invalido
+PR1023,Tablet 23,,P302,precio_invalido
+PR1055,Mouse 55,,P332,precio_invalido
+PR1094,Silla 94,,P333,precio_invalido
+PR1096,Disco SSD 96,,P314,precio_invalido
+PR1135,Mouse 135,,P312,precio_invalido
